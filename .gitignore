@@ -1,0 +1,10 @@
+.copilot-azure/
+node_modules/
+.next/
+.swc/
+out/
+.env
+.env.local
+coverage/
+*.log
+/*.pdf
